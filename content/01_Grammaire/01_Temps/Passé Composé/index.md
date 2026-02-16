@@ -38,7 +38,8 @@ Exemples :
 > Avec **être**, le participe passé s’accorde avec le sujet :  
 > _elle est allée_, _ils sont arrivés_, _elles sont montées_…
 
-### Liste des verbes (A2)
+![[MontainEtre.png]]
+### Liste des verbes
 
 |Verbe|Participe|Traduction|
 |---|---|---|
